@@ -1,0 +1,14 @@
+{
+  "name": "mqtt-worker",
+  "homepage": "https://github.com/mqttjs/mqtt-worker",
+  "_release": "67a3d4b40a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "67a3d4b40a921c0aaa973977f608231a0aa52969"
+  },
+  "_source": "git://github.com/mqttjs/mqtt-worker.git",
+  "_target": "*",
+  "_originalSource": "mqttjs/mqtt-worker",
+  "_direct": true
+}

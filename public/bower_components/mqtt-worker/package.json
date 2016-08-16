@@ -1,0 +1,31 @@
+{
+  "name": "mqtt-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mqttWorker.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "inherits": "^2.0.1",
+    "lodash": "^4.6.1",
+    "lodash.map": "^4.2.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "karma": "^0.13.22",
+    "karma-browserify": "^5.0.5",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-coverage": "^1.0.0",
+    "karma-mocha": "^1.0.1",
+    "load-grunt-tasks": "^3.4.1",
+    "mocha": "^2.5.3",
+    "should": "^8.2.2"
+  }
+}
